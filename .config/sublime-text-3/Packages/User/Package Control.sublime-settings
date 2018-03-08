@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Drupal",
+		"Git",
+		"Package Control",
+		"TrailingSpaces",
+		"WordCount"
+	]
+}

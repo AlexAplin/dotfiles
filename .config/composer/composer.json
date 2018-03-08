@@ -1,0 +1,7 @@
+{
+    "require": {
+        "webflo/drush-shim": "^0.2.2",
+        "drupal/coder": "^8.2",
+        "symfony/console": "^3.3"
+    }
+}
